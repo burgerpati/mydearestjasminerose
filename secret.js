@@ -1,4 +1,4 @@
-﻿const correctPasscode = '246813579';
+﻿const correctPasscode = '092424';
 
 function checkPasscode() {
     const input = document.getElementById('passcode-input').value;
